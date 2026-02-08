@@ -1,0 +1,10 @@
+{
+    "Name": "PythonAccess",
+    "Author": "you",
+    "Version": "1.0.0",
+    "Description": "IPC bridge between Stardew Valley and a Python process via TCP.",
+    "UniqueID": "you.PythonAccess",
+    "EntryDll": "PythonAccess.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
